@@ -1,18 +1,33 @@
 # Consolidation
+
+During this much needed consolidation week I reflected on all of the things that I have learned, both through the activities (which were for the most part new to me) and the readings which covered an array of interesting topics. So to start of this weeks reflection I would like to first go through each week seperatly, then reflcet of some of my "wins" and "loses" during this module, and conclude with a short comparison between module 1 and 2.
+
 ## Week 5
 
+This week I spent much of my time working in RStudio, a program I am familiar with, but had difficulties navigating over the summer. This time around I wanted to take more time to experiement with the data to see what kind of trends I can find that may be interesting, or something I wouldn't have thought of by just looking at the table of data. Though I have yet to find out why the 3D graph did not want to work, I did see that the data gaps in the materials and denominations were not what I expected had expected to see. I remember thinking to myself, how did people have answers for this, because I sure didn't know what to input, especially for the material section. And that was when I thought about the issues with Kobotools. The way in which it asked for data was not always easy and could be restrictive at times, which is visible through the table of data. 
+
+The readings I did for this week fit into the activities quite we'll for me because they touched on some important issues with the type of data being gathered. This again shows how restricted we can be with our answers at times and that can cause an issue with the data being collected since it does not capture the whole image (or at least as much as possible). 
 
 ## Week 6
 
+This week was probably one of my favourites in terms of activities because it was a bit of a different way to look at data. I am a huge fan of visual things so when I saw a huge, colourful box of lines on my screen I was eager to see what was happening. I also very much enjoy interactive works because it gives people so much more freedom to explore and learn in a way that makes sense to them. So for this activity I was able to pick and choose what chaught my attention, and because of this I ended up clicking on data that discussed things that I was unfamiliar with. So I went on to the internet with my boyfriend and we started searching to see why some of the terms we were seeing showed up so many times in specific years. 
+
+The reading I connected with the most for this week again worked very well with this activity. I would have to say that the key word I would use to describe what I felt was ignorance, and the text *Why the Whitness of Archaeology Is a Problem* discusses that exact issue. It is so important to step out of your own bubble and take the time to educate yourself on any topic!
 
 ## Week 7
 
+This week's activity was another new one for me, and I have to say it was by far the most complex one of all the things I did during this module. I again took my time with the activity for this week because I wanted to make sure I was truely understanding what it was I was looking at. And I will have to admit I do understand the benefits of using NetLogo, but it was a bit messy to look at with all the connections and colours and lack of labels, it just was too overwhelming for me (which is funny since I found last weeks to be done so well). Yet I was still able to see where it worked well when using the animation to show the spread of a virus, and to show the messy web of connections between all of the little dots. So I guess this would be a great example of showing us how difficult and messy it can be to work with som much data and try to find all the connections between various things. 
+
+The reading for this week that was most interesting to me covered ideas around the issue of spearding the wrong information to people (aka misconceptions). This can be seen in everyday life, for example, the numbers given to us for coronavirus cases within each city (something we disucussed in another class and I was so excited to explain the issue with how the data is presented). Instead of looking at number per capital which would give us a etter understanding of how serious the spred is within each reigon, they provide us with the total number, which is great and all, but when you see 70 in Ottawa and 300 in Toronto it makes people think that were fine here. This is soooooo far from correct, Ottawa was one of the worst (if not the worst, I can't find the article to fact check this) cities per capital. So to kind of bring an end to this long example, the point I understood was that there are many ways that our data can be shown that can allow for different interpretations, which could be an issue if it ignores inmortant facts. 
 
 # Fail
 
+I honestly think that the most important fail for me during this whole module was time management. I don't feel that I got to experience week 7 properly simply because the content took me so long to get through, and it was not because of some annoying error message that I spent hours trying to solve, it was just that the program I was using was something new for me and I wanted to take the time to play with it and understand it so that I could do each exercise well snd really obsorb all of the information.
 
 # Win
 
+In terms of a win, I would have to say that my win for this module was (funny enough) taking the time to go through each activity slowly so that I can better understand the programs I was using and the data I was seeing. Even though I believe there is so much more I could have learn from this module, there is also so much that I did learn, and connections that I made through the various activities that I doubt I would have considered or noticed had I been rusing through. So even though I wasn't able to get through all of the activities, I think that the understanding I have developed is far more valuable to me going into module 3.
 
 # Module 1 vs Module 2
 
+The difference between module 1 and 2 is like night and day. In module 1 it was all about collecting data. Just grab everything you can and sort it out later! Well module 2 was just that. Instead of learning how to collect data like we did in module 1, here we took the time to learn what it all means. This step is so time consuming, frustrating, and important. It allows for us to make connections with all the information we got, to see what was missing from out fieldwork, and to correct so that we can get it "right" next time (though I honestly believe there will never be a right way since there is always going to be something missing from the data).
